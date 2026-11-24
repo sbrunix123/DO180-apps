@@ -1,0 +1,5 @@
+---
+- src: http://content.example.com/Rhce/balancer.tar.gz
+  name: balancer
+- src: http://content.example.com/Rhce/phpinfo.tar.gz
+  name: phpinfo
